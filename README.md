@@ -11,3 +11,6 @@ HOW TO USE IT:
 
 Add a .js file to the folder of the problem or just add a function to one of the .js files of the problem folder solutions. When running the tests, it will run all tests with all exported functions of the problem folder.
 
+HOW TO CONTRIBUTE
+
+Make a PR, I will review it and after squash, merge it
